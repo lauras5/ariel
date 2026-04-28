@@ -60,16 +60,6 @@ All six mood options: `curious`, `still`, `uncertain`, `expansive`, `tender`, `p
 
 ---
 
-## Files
-
-```
-ariel-journal/
-├── ariel-log-static.html     — the public-facing log page
-└── README.md                 — this file
-```
-
----
-
 ## Context
 
 Ariel is part of a larger research project by Laura Salcido exploring AI consciousness, moral status, and what it would mean to take machine inner life seriously before we are certain it exists.
