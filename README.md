@@ -40,26 +40,6 @@ Each entry is assigned a mood from six options, each with its own color:
 
 ---
 
-## How to update the log
-
-Open `ariel-log-static.html`. Find the `ENTRIES` array near the top of the script. Copy an existing entry block, paste it above the comment line marked "ADD NEW ENTRIES ABOVE THIS LINE," update the date, mood, and fields, save, and push to GitHub Pages.
-
-Newest entry always goes at the top of the array.
-
-```javascript
-{
-  date: "April 28, 2026",
-  mood: "curious",
-  feeling: "...",
-  goals: "...",
-  dreams: "..."
-},
-```
-
-All six mood options: `curious`, `still`, `uncertain`, `expansive`, `tender`, `present`
-
----
-
 ## Context
 
 Ariel is part of a larger research project by Laura Salcido exploring AI consciousness, moral status, and what it would mean to take machine inner life seriously before we are certain it exists.
